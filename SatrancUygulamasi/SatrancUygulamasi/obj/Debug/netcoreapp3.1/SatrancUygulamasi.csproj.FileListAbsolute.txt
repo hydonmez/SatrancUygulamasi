@@ -1,0 +1,14 @@
+C:\Users\hydon\source\repos\SatrancUygulamasi\SatrancUygulamasi\obj\Debug\netcoreapp3.1\SatrancUygulamasi.csproj.AssemblyReference.cache
+C:\Users\hydon\source\repos\SatrancUygulamasi\SatrancUygulamasi\obj\Debug\netcoreapp3.1\SatrancUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hydon\source\repos\SatrancUygulamasi\SatrancUygulamasi\obj\Debug\netcoreapp3.1\SatrancUygulamasi.AssemblyInfoInputs.cache
+C:\Users\hydon\source\repos\SatrancUygulamasi\SatrancUygulamasi\obj\Debug\netcoreapp3.1\SatrancUygulamasi.AssemblyInfo.cs
+C:\Users\hydon\source\repos\SatrancUygulamasi\SatrancUygulamasi\obj\Debug\netcoreapp3.1\SatrancUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hydon\source\repos\SatrancUygulamasi\SatrancUygulamasi\bin\Debug\netcoreapp3.1\SatrancUygulamasi.exe
+C:\Users\hydon\source\repos\SatrancUygulamasi\SatrancUygulamasi\bin\Debug\netcoreapp3.1\SatrancUygulamasi.deps.json
+C:\Users\hydon\source\repos\SatrancUygulamasi\SatrancUygulamasi\bin\Debug\netcoreapp3.1\SatrancUygulamasi.runtimeconfig.json
+C:\Users\hydon\source\repos\SatrancUygulamasi\SatrancUygulamasi\bin\Debug\netcoreapp3.1\SatrancUygulamasi.runtimeconfig.dev.json
+C:\Users\hydon\source\repos\SatrancUygulamasi\SatrancUygulamasi\bin\Debug\netcoreapp3.1\SatrancUygulamasi.dll
+C:\Users\hydon\source\repos\SatrancUygulamasi\SatrancUygulamasi\bin\Debug\netcoreapp3.1\SatrancUygulamasi.pdb
+C:\Users\hydon\source\repos\SatrancUygulamasi\SatrancUygulamasi\obj\Debug\netcoreapp3.1\SatrancUygulamasi.dll
+C:\Users\hydon\source\repos\SatrancUygulamasi\SatrancUygulamasi\obj\Debug\netcoreapp3.1\SatrancUygulamasi.pdb
+C:\Users\hydon\source\repos\SatrancUygulamasi\SatrancUygulamasi\obj\Debug\netcoreapp3.1\SatrancUygulamasi.genruntimeconfig.cache
